@@ -14,7 +14,7 @@ long_description = '\n\n'.join([
 
 setup(
     name='parruc.devtools',
-    version='1.0a1',
+    version='1.0.0',
     description="Developement tool. On creation only contains a profiler decorator",
     long_description=long_description,
     # Get more from https://pypi.python.org/pypi?%3Aaction=list_classifiers
